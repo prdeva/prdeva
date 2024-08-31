@@ -19,7 +19,7 @@ I'm an enthusiastic software developer from India, specializing in full stack de
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaran-raja&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prdeva&layout=compact&theme=merko)
 
 ![Deva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prdeva&show_icons=true&theme=merko)
 ![Deva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prdeva&theme=merko)
